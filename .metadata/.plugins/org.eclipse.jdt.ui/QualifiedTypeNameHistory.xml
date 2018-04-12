@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="doors.Door"/>
-<fullyQualifiedTypeName name="doors.Person"/>
-<fullyQualifiedTypeName name="doors.AgeValidationException"/>
-<fullyQualifiedTypeName name="doors.MoreConcreteException"/>
-<fullyQualifiedTypeName name="minesweeper.core.Field"/>
-</qualifiedTypeNameHistroy>

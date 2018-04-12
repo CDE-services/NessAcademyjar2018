@@ -1,5 +1,0 @@
-package doors;
-
-public class AgeValidationException {
-
-}
