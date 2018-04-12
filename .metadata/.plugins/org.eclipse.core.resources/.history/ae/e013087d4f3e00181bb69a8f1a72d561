@@ -1,0 +1,19 @@
+package shapesWithCollections;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class PaintBrush {
+
+	public static void main(String[] args) {
+		List<Shape> shapes = new ArrayList<>();
+		shapes.add(new Line(10, 2, 4, 'B'));
+		shapes.add(new Square(5, 1, 3, 'O'));
+		shapes.add(new Rectangle(8, 4));
+		
+		for (int i = 0; i < shapes.size(); i++) {
+			shapes.get(i).print();
+		}
+	}
+
+}

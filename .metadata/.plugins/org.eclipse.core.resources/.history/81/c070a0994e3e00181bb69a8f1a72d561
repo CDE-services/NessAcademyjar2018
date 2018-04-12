@@ -1,0 +1,21 @@
+package shapes;
+
+public class Triangle extends Shape {
+
+	private int size;
+	
+	public Triangle(int size) {
+		super();
+		this.size = size;
+	}
+
+	public Triangle(int size, int x, int y, char color) {
+		super(x, y, color);
+		this.size = size;
+	}
+
+	@Override
+	public void print() {
+		
+	}
+}
