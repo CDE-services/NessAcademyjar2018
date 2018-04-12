@@ -1,0 +1,12 @@
+package minesweeper.core;
+
+import org.junit.Ignore;
+import org.junit.Test;
+
+public class ClueTest {
+	
+	@Test(timeout=100)
+	public void test() {
+		System.out.println("Clue test nejaky");
+	}
+}

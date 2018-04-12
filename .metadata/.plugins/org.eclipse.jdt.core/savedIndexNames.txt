@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+C:\Users\micha\Documents\NessProjects\NessAkademia2018\.metadata\.plugins\org.eclipse.jdt.core
+450736440.index
+2602422261.index
+1135458943.index
+2380175872.index
+2155982371.index

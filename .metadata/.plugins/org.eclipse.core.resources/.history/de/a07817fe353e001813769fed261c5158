@@ -1,0 +1,8 @@
+package minesweeper.core;
+
+public class ClueTest {
+	@Test
+	public void test() {
+		System.out.println("Clue test nejaky");
+	}
+}

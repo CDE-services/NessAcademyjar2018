@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;arg0&apos; in &apos;doors.AgeValidationException.AgeValidationException(...)&apos; to &apos;message&apos;&#x0D;&#x0A;- Original project: &apos;HelloWorld&apos;&#x0D;&#x0A;- Original element: &apos;doors.AgeValidationException.AgeValidationException(String).arg0&apos;&#x0D;&#x0A;- Renamed element: &apos;arg0&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;arg0&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;doors{AgeValidationException.java[AgeValidationException~AgeValidationException~QString;@arg0!108!118!115!118!QString;!0!true" name="message" references="true" stamp="1523523201844" version="1.0"/>
+</session>
